@@ -1,0 +1,15 @@
+{
+  "name": "api_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "H4D3ZS",
+  "license": "ISC",
+  "description": "Backend For Website",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
